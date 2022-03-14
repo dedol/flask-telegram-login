@@ -4,7 +4,7 @@ import hashlib
 
 
 app = Flask(__name__)
-app.config['TELEGRAM_BOT_TOKEN'] = '0000000000:AAAAA-BBBBBBBB_CCC_DDDDDDDDDDDDDDDD'
+app.config['TELEGRAM_BOT_TOKEN'] = '0000000000:AAAAA-BBBBBBBBСCCCСDDDDDDDDDDDDDDDD'
 
 
 @app.route('/')
